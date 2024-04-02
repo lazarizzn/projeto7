@@ -36,12 +36,11 @@ body{
 .divisor{
     font-size: 20px;
     margin: 30px 0px 0px 350px;
-    height: 92px;
+    height: 90px;
     width: 541px;
     display: flex;
-    column-gap: 50px;
+    column-gap: 40px;
     align-items: center;
-    font-family: Poppins;
    
 }
 .btn{
@@ -103,4 +102,47 @@ body{
     column-gap: 15px;
 
 
+}
+.radio-box{
+
+    display: flex;
+    font-size: 16px;
+    Margin: 30px 0px 0px 350px;
+
+}
+.radio{
+    display: flex;
+    margin: 0px 5px 0px 10px;
+    font-size: 16px;
+}
+.radio1{
+    width: 20px;
+    height: 20px;
+    margin: 0px 5px 0px 10px;
+    
+}
+.btnf{
+    width: 537px;
+    height: 57px;
+    background-color: #736B66;
+    color: white;
+    font-size: 16px;
+    font-family: Poppins;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+.fimpg{
+    width: 304px;
+    height: 34px;
+    font-family: Poppins;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 500px;
+    align-items: center;
+
+}
+.destac{
+    color: red;
+    
 }
